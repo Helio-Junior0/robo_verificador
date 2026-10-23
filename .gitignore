@@ -1,0 +1,7 @@
+﻿.venv/
+estado_alerta.json
+monitor.log
+glpi_resposta.html
+wake.txt
+*.txt
+__pycache__/
